@@ -1,16 +1,16 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
-  "analytics": "UA-43643469-8",
+  "url": "https://craiova-devfest-2019.firebaseapp.com/",
+  "analytics": "UA-21286175-6",
   "prefix": "/",
   "firebase": {
-    "appId": "1:1083195713896:web:9aed8296d8d642cb",
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "appId": "",
+    "apiKey": "AIzaSyCR9mbfnARjndob9KrjijqgMG0fqtuP_co",
+    "authDomain": "craiova-devfest-2019.firebaseapp.com",
+    "databaseURL": "https://craiova-devfest-2019.firebaseio.com",
+    "projectId": "devfest-2019-craiova",
+    "storageBucket": "devfest-2019-craiova.appspot.com",
+    "messagingSenderId": "308469602095"
   },
-  "googleMapApiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE"
+  "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
 }

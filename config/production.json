@@ -5,12 +5,12 @@
   "prefix": "/",
   "firebase": {
     "appId": "",
-    "apiKey": "AIzaSyAcWC41RDC7ypWmp3yNtUN3Y4RjE8Mrwko",
+    "apiKey": "AIzaSyCR9mbfnARjndob9KrjijqgMG0fqtuP_co",
     "authDomain": "craiova-devfest-2019.firebaseapp.com",
     "databaseURL": "https://craiova-devfest-2019.firebaseio.com",
-    "projectId": "craiova-devfest-2019",
-    "storageBucket": "craiova-devfest-2019.appspot.com",
-    "messagingSenderId": "686427945556"
+    "projectId": "devfest-2019-craiova",
+    "storageBucket": "devfest-2019-craiova.appspot.com",
+    "messagingSenderId": "308469602095"
   },
   "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
 }
