@@ -1,13 +1,13 @@
 {
   "basepath": "/",
-  "url": "https://craiova-devfest-2019.firebaseapp.com/",
+  "url": "https://devfest-2019-craiova.firebaseapp.com/",
   "analytics": "UA-21286175-6",
   "prefix": "/",
   "firebase": {
     "appId": "",
     "apiKey": "AIzaSyCR9mbfnARjndob9KrjijqgMG0fqtuP_co",
-    "authDomain": "craiova-devfest-2019.firebaseapp.com",
-    "databaseURL": "https://craiova-devfest-2019.firebaseio.com",
+    "authDomain": "devfest-2019-craiova.firebaseapp.com",
+    "databaseURL": "https://devfest-2019-craiova.firebaseio.com",
     "projectId": "devfest-2019-craiova",
     "storageBucket": "devfest-2019-craiova.appspot.com",
     "messagingSenderId": "308469602095"

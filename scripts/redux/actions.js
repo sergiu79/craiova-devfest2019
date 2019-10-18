@@ -522,7 +522,10 @@ const teamActions = {
             ]))
         ))
         .then((teams) => teams.map(([team, id, members]) => {
-          return Object.assign({}, team, { id, members });
+          return Object.assign({}, team, {
+            id,
+            members: members.sort((a, b) => a.order < b.order ? -1 : 1),
+          });
         }))
         .then((list) => {
           dispatch({
