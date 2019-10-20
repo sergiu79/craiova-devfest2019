@@ -37,16 +37,11 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Join the community, learn new things!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"

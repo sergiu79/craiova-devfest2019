@@ -24,7 +24,7 @@
       }
 
       :host([transparent]) .toolbar-logo {
-        background-color: var(--hero-logo-color);
+       /* background-color: var(--hero-logo-color);*/
         opacity: var(--hero-logo-opacity, 1);
       }
 
@@ -39,9 +39,11 @@
         display: block;
         width: 150px;
         height: 32px;
-        background-color: var(--default-primary-color);
-        transition: background-color var(--animation);
-        -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+        /*background-color: var(--default-primary-color);*/
+        /*transition: background-color var(--animation); */
+        /*-webkit-mask: url('/images/logo-monochrome.svg') no-repeat;*/
+        background: url('/images/logo-devfest-gray.png');
+        background-size: cover;
       }
 
       .nav-items {

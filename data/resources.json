@@ -1,6 +1,6 @@
 {
   "title": "GDG DevFest Craiova 2019",
-  "description": "Join the commuity, learn new things!",
+  "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, craiova, gdgcraiova",
   "dates": "November 16, 2019",
@@ -133,8 +133,8 @@
         "number": "250"
       },
       "days": {
-        "label": "Surprise guests",
-        "number": "1"
+        "label": "GDGs ",
+        "number": "3"
       },
       "sessions": {
         "label": "Sessions",
@@ -221,7 +221,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Craiova sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -230,7 +230,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Craiova](https://gdgcraiova.dev/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Craiova](https://gdgcraiova.dev/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Romanian audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -263,7 +263,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://gdgcraiova.dev' target='_blank'>GDG Craiova</a> with support of GDG Bucharest and GDG Pitești is proud organizer of DevFest Craiova 2019 conference.",
+        "description": "<a href='https://gdgcraiova.dev' target='_blank'>GDG Craiova</a> and <a href='https://scoalainformala.ro' target='_blank'>Școala informala de IT</a> are proud organizers of DevFest Craiova 2019 conference, with support from GDG Bucharest and GDG Pitești.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

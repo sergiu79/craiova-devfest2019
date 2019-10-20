@@ -61,9 +61,10 @@
     </style>
 
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
+      <!-- api-key="{$ googleMapApiKey $}" AIzaSyCR9mbfnARjndob9KrjijqgMG0fqtuP_co -->
       <good-map
         id="map"
-        api-key="{$ googleMapApiKey $}"
+        api-key=""
         latitude="{$ location.mapCenter.latitude $}"
         longitude="{$ location.mapCenter.longitude $}"
         zoom="{$ location.pointer.zoom $}"
