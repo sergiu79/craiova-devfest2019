@@ -23,6 +23,8 @@ export function saveData(data, path) {
 export function fetchDataFromFile(file) {
   return new Promise((resolve, reject) => {
     fs.readFile(path.resolve(process.cwd(), file), 'utf8', (err, data) => {
+      console.log('Data:');
+      console.log(data);
       if (err) reject(err);
       resolve(JSON.parse(data));
     });

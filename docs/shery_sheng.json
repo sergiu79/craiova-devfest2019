@@ -1,0 +1,24 @@
+{"bio" : "Xiaoli(Shery) Sheng has a great work experience with Tensorflow and Iot and also in IT Quality Assurance area, as she also worked for big companies like Microsoft, Dell and Electronic Arts",
+    "company" : "Google",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Shanghai, China",
+    "featured" : true,
+    "name" : "Xiaoli(Shery) Cheng",
+    "photo" : "/images/people/shery_sheng.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fshery.jfif?alt=media&token=5f2ad05c-2687-412f-8dad-ea4bceb3e03a",
+    "pronouns": "she/him",
+    "shortBio" : "Xiaoli(Shery) Sheng has a great work experience with Tensorflow and Iot and also in IT Quality Assurance area",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/%E6%99%93%E4%B8%BD-%E7%9B%9B-83ab2a112/",
+        "name" : "LinkedIn"
+      } ],
+    "badges": [ {
+        "name": "google",
+        "link": "https://www.linkedin.com/in/%E6%99%93%E4%B8%BD-%E7%9B%9B-83ab2a112/",
+        "description": "Senior Software Engineer at Google Nest"
+      } ],
+    "order" : 0,
+    "title" : "Senior Software Engineer"
+  }

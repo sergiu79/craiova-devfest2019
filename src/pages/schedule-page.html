@@ -109,8 +109,16 @@
         items-count="{$ contentLoaders.schedule.itemsCount $}"
         hidden$="[[contentLoaderVisibility]]" layout>
       </content-loader>
-
-      <iron-pages
+      <div>We are currently working on matching our guest speakers on the three conference tracks: 
+        <ul>
+          <li> Android & Web Development </li>
+          <li> Artificial Intelligence & Machine Learning & IoT </li>
+          <li> Cloud & Data Engineering </li>
+        </ul>
+        Stay tuned for the exact hours, speakers and sessions.
+      </div>
+      <!-- Schedule diabled 
+        <iron-pages
         attr-for-selected="name"
         selected="[[subRoute]]"
         selected-attribute="active"
@@ -136,6 +144,7 @@
           query-params="[[queryParams]]"
         ></my-schedule>
       </iron-pages>
+      -->
     </div>
 
     <footer-block></footer-block>
