@@ -1,0 +1,20 @@
+{"bio" : "Andrei is building the team, tech and farm to support critical automation for one of his most important titles, FIFA.In generic words, he grows talent in his organization, motivates product team, builds better products for the customers and he is thinking about overall process of constructing software. Also he is working for starting EAROKS initiative, created with the purpose of making information sharing easier with peers. His specialties are Microsoft technologies : C# / ASP.NET MVC expert. He is also author for multiple books / video tutorials.<p>See his videos at <a target='blank' href='https://www.youtube.com/playlist?list=PL4aSKgR4yk4OnmJW6PlBuDOXdYk6zTGps'>https://www.youtube.com/playlist?list=PL4aSKgR4yk4OnmJW6PlBuDOXdYk6zTGps<a/a> and his blog at <a target='_blank' href='http://msprogrammer.serviciipeweb.ro'>http://msprogrammer.serviciipeweb.ro</a> </p> ",
+    "company" : "Electronic Arts (EA)",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "Andrei Ignat",
+    "photo" : "/images/people/andrei_ignat.jpg",
+    "photoUrl" : "",
+    "pronouns": "he/him",
+    "shortBio" : "Andrei is building the team, tech and farm to support critical automation for one of his most important titles, FIFA.In generic words, he grows talent in his organization, motivates product team, builds better products for the customers and he is thinking about overall process of constructing software",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ignatandrei/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 3,
+    "id": "andrei_ignat",
+    "title" : "Technical Director for Automated Testing"
+  }

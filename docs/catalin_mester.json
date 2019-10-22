@@ -1,0 +1,20 @@
+{"bio" : "Cătălin is a critical thinker and a fan of human-centered design. His most important skill after 15 years of design is that he learned how to learn. He has seen trends come and go, technologies disappear and always had to adapt to changes. He helps corporations and startups innovate through: Design Sprints, Design Thinking, Product Design, Failure Management and he loves failure. He built a community of people that understand that failure is a very natural part of life which should help other people learn from the members failures.",
+    "company" : "Stefanini EMEA",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "Cătălin Meşter",
+    "photo" : "/images/people/catalin_mester.jpg",
+    "photoUrl" : "",
+    "pronouns": "he/him",
+    "shortBio" : "Cătălin is a critical thinker and a fan of human-centered design. His most important skill after 15 years of design is that he learned how to learn.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mester-catalin-ab278952/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 2,
+    "id": "catalin_mester",
+    "title" : "Innovation Designer"
+  }

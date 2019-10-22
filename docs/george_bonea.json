@@ -1,0 +1,28 @@
+{   "bio" : "George is very convinced that he will never be a boss, CEO, CTO, Project Manager, not even a tiny Team Lead. Also he knows that he will never be good in bed as he is not tall enough and he will never marry that super hot girl from Instagram because his paycheck will all be not enough.",
+    "company" : "Not Google",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "George Bonea",
+    "photo" : "/images/people/george_bonea.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fgeorge_bonea.png?alt=media&token=d8ee34db-2c03-4b5a-87af-adc89fab76de",
+    "pronouns": "he/him",
+    "shortBio" : "George is very convinced that he will never be a boss, CEO, CTO, Project manger, not even a tiny Team Lead...",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/george-bonea-b0494b91/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/SpeakerDemotivational/",
+        "name" : "Facebook"
+      } , {
+        "icon" : "youtube",
+        "link" : "https://www.youtube.com/playlist?list=PLrg37xiA_78tENQ4yczFCXtyrlqKXcpQt",
+        "name" : "Youtube"
+      } ],
+    "order" : 7,
+    "id": "george_bonea",
+    "title" : "Demotivational Speaker"
+  }

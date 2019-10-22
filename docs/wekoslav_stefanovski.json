@@ -1,0 +1,24 @@
+{"bio" : "Wekoslav Stefanovski has over a decade of professional developer experience using a variety of development technologies. Has been using JavaScript since before the turn of the century and has a long and fruitful love/hate relationship with it. Currently, he works at Sourcico as Head of Development. He is passionate about functional programming, static code analysis, compiler design and code quality metrics. He is also a Lecturer at Seavus Education and Development Center.",
+    "company" : "Sourcico",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Skopje, Macedonia",
+    "featured" : true,
+    "name" : "Wekoslaw Stefanovski",
+    "photo" : "/images/people/wekoslaw_stefanovski.jpg",
+    "photoUrl" : "",
+    "pronouns": "he/him",
+    "shortBio" : "Wekoslav Stefanovski has over a decade of professional developer experience using a variety of development technologies. Has been using JavaScript since before the turn of the century and has a long and fruitful love/hate relationship with it. Currently, he works at Sourcico as Head of Development.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/swekster/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/swekster",
+        "name" : "Twitter"
+      } ],
+    "order" : 5,
+    "id": "wekoslaw_stefanovski",
+    "title" : "Head of Development"
+  }

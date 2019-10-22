@@ -245,6 +245,7 @@
         const filteredSpeakers = this.speakers
             .filter((speaker) => speaker.featured);
         const randomSpeakers = this.randomOrder(filteredSpeakers.length ? filteredSpeakers : speakers);
+        randomSpeakers.sort((a, b) => a.order - b.order);
         this.set('featuredSpeakers', randomSpeakers.slice(0, 4));
       }
     }

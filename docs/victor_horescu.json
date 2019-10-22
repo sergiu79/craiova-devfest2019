@@ -1,0 +1,24 @@
+{"bio" : "Victor's vision about software testing is linked to the ability of software testing teams to become small developers or mini configurators, the ability to expand knowledge and to know a little bit of everything. A little coding, some knowledge of networking, system architecture, good understanding of the business processes! He leads his software testing business with a very close attention to customer processes so they are able to create tests that will reflect the customer's style of working, they are replacing repetitive actions with creativity, they are using the scripting or coding knowledge to create automated scripts who replace manual repetitive work.",
+    "company" : "iQST",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Victor Horescu",
+    "photo" : "/images/people/victor_horescu.jpg",
+    "photoUrl" : "",
+    "pronouns": "he/him",
+    "shortBio" : "Victor's vision about software testing is linked to the ability of software testing teams to become small developers or mini configurators, ...",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/victorhorescu/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/victorhorescu",
+        "name" : "Twitter"
+      } ],
+    "order" : 6,
+    "id": "victor_horescu",
+    "title" : "Experienced International Trainer / Certified Software Testing Consultant / Entrepreneur"
+  }

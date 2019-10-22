@@ -1,0 +1,863 @@
+{ 
+   "dateReadable":"November 16",
+   "timeslots":[ 
+      { 
+         "startTime":"08:00",
+         "sessions":[ 
+            { 
+               "items":[ 
+                  { 
+                     "mainTag":"General",
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "icon":"registration",
+                     "duration":{ 
+                        "mm":30,
+                        "hh":1
+                     },
+                     "track":{ 
+                        "title":"Main Conference Room"
+                     },
+                     "description":"Get your badge, coffee, enjoy talking with tech edicts around",
+                     "image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+                     "id":"1",
+                     "speakers":[ 
+
+                     ],
+                     "title":"Registration & breakfast",
+                     "endTime":"9:30",
+                     "startTime":"08:00"
+                  }
+               ],
+               "gridArea":"1 / 1 / 1 / 4"
+            }
+         ],
+         "endTime":"09:30"
+      },
+      { 
+         "startTime":"09:30",
+         "sessions":[ 
+            { 
+               "items":[ 
+                  { 
+                     "image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+                     "id":"2",
+                     "speakers":[ 
+                     ],
+                     "endTime":"10:00",
+                     "title":"GDG DevFest Craiova 2019 Opening",
+                     "startTime":"10:00",
+                     "mainTag":"General",
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "icon":"opening",
+                     "duration":{ 
+                        "hh":0,
+                        "mm":30
+                     },
+                     "language":"English",
+                     "track":{ 
+                        "title":"Main Conference Room"
+                     },
+                     "description":"Official start of the conference. Greetings from the organizers, sponsors and partners."
+                  }
+               ],
+               "gridArea":"2 / 1 / 2 / 4"
+            }
+         ],
+         "endTime":"10:00"
+      },
+      { 
+         "endTime":"10:45",
+         "startTime":"10:00",
+         "sessions":[ 
+            { 
+               "items":[ 
+                  { 
+                     "language":"English",
+                     "description":"",
+                     "track":{ 
+                        "title":"Main Conference Room"
+                     },
+                     "id":"3",
+                     "speakers":[ 
+                        {"bio" : "Xiaoli(Shery) Sheng has a great work experience with Tensorflow and Iot and also in IT Quality Assurance area, as she also worked for big companies like Microsoft, Dell and Electronic Arts",
+                            "company" : "Google",
+                            "companyLogo" : "",
+                            "companyLogoUrl" : "",
+                            "country" : "Shanghai, China",
+                            "featured" : true,
+                            "name" : "Xiaoli(Shery) Cheng",
+                            "photo" : "/images/people/shery_sheng.jpg",
+                            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fshery.jfif?alt=media&token=5f2ad05c-2687-412f-8dad-ea4bceb3e03a",
+                            "pronouns": "she/her",
+                            "shortBio" : "Xiaoli(Shery) Sheng has a great work experience with Tensorflow and Iot and also in IT Quality Assurance area",
+                            "socials" : [{
+                                "icon" : "linkedin",
+                                "link" : "https://www.linkedin.com/in/%E6%99%93%E4%B8%BD-%E7%9B%9B-83ab2a112/",
+                                "name" : "LinkedIn"
+                              } ],
+                            "badges": [ {
+                                "name": "google",
+                                "link": "https://www.linkedin.com/in/%E6%99%93%E4%B8%BD-%E7%9B%9B-83ab2a112/",
+                                "description": "Senior Software Engineer at Google Nest"
+                              } ],
+                            "order" : 0,
+                            "title" : "Senior Software Engineer"
+                          }
+                     ],
+                     "title":"TBA",
+                     "endTime":"10:45",
+                     "startTime":"10:00",
+                     "mainTag":"General",
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "duration":{ 
+                        "hh":0,
+                        "mm":45
+                     }
+                  }
+               ],
+               "gridArea":"3 / 1 / 3 / 4"
+            }
+         ]
+      },
+      { 
+        "endTime":"10:45",
+        "startTime":"10:00",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"4",
+                    "speakers":[ 
+                        {"bio" : "Cătălina has an extensive experience in User Experience and Design, Design Thinking, call is as you please, it’s still design language. She led the creation of digital experiences in companies such as Vodafone, ING Bank  and Electronic Arts, where from 2017 to 2019, she lead the Romanian UX team for FIFA.At ING she went from coordinating innovative digital campaigns, making ING one of the most loved Romanian brands in social media, to being the person behind the experience of ING Bank’s internet banking, Home’Bank.</p><p> She left the corporate world to dedicate her full time as an entrepreneur, being a co-founder of the Design Thinking Society (founded in 2017) with, what she proudly says, other 3 of the best makers and designers in Romania, on their way to make some changes around design in Romania. They are an Innovation and Design consultancy boutique offering companies and startups consultancy to improve their products and services. Catalina is also a UX trainer, mentor and advocate of design thinking approach. She is a certified Google Developer UX expert and invest effort and time in developing and supporting the tech communities. She’s driven and curious.",
+                            "company" : "Design Thinking Society",
+                            "companyLogo" : "",
+                            "companyLogoUrl" : "",
+                            "country" : "Bucharest, Romania",
+                            "featured" : true,
+                            "name" : "Cătălina Bănuleasa",
+                            "photo" : "/images/people/catalina_banuleasa.jpg",
+                            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FCatalina.png?alt=media&token=0d1a2343-a4e7-4551-808f-0d3076549a3a",
+                            "pronouns": "she/her",
+                            "shortBio" : "Catalina has an extensive experience in User Experience and Design, Design Thinking, call is as you please, it’s still design language. She led the creation of digital experiences in companies as Vodafone, ING Bank. and Electronic Arts, where from 2017 to 2019, she lead the Romanian UX team for FIFA.",
+                            "socials" : [{
+                                "icon" : "linkedin",
+                                "link" : "https://www.linkedin.com/in/alinacatalina/",
+                                "name" : "LinkedIn"
+                              } ],
+                            "badges": [ {
+                              "description" : "UI/UX Google Developer Expert",
+                              "link" : "https://www.linkedin.com/in/alinacatalina/",
+                              "name" : "gde"
+                              } ],
+                            "order" : 1,
+                            "title" : "Co-Founder"
+                          }
+                    ],
+                    "title":"TBA",
+                    "endTime":"10:45",
+                    "startTime":"10:00",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":45
+                    }
+                 }
+              ],
+              "gridArea":"4 / 1 / 4 / 4"
+           }
+        ]
+     },
+     { 
+        "startTime":"11:30",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "description":"Coffeeeeeee!",
+                    "image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+                    "id":"5",
+                    "speakers":[ 
+
+                    ],
+                    "title":"Coffee break",
+                    "endTime":"11:45",
+                    "startTime":"11:30",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "icon":"coffee-break",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":15
+                    }
+                 }
+              ],
+              "gridArea":"5 / 1 / 5 / 4"
+           }
+        ],
+        "endTime":"11:45"
+     },
+     { 
+        "endTime":"12:30",
+        "startTime":"11:45",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"6",
+                    "speakers":[ 
+                        {
+                            "name": "TBA"
+                        }
+                    ],
+                    "title":"TBA",
+                    "endTime":"12:30",
+                    "startTime":"11:45",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":45
+                    }
+                 }
+              ],
+              "gridArea":"6 / 1 / 6 / 4"
+           }
+        ]
+     },
+     { 
+        "endTime":"13:15",
+        "startTime":"12:30",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"Romanian & English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"7",
+                    "speakers":[ 
+                        {   "bio" : "George is very convinced that he will never be a boss, CEO, CTO, Project Manager, not even a tiny Team Lead. Also he knows that he will never be good in bed as he is not tall enough and he will never marry that super hot girl from Instagram because his paycheck will all be not enough.",
+                            "company" : "Not Google",
+                            "companyLogo" : "",
+                            "companyLogoUrl" : "",
+                            "country" : "Bucharest, Romania",
+                            "featured" : true,
+                            "name" : "George Bonea",
+                            "photo" : "/images/people/george_bonea.jpg",
+                            "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fgeorge_bonea.png?alt=media&token=d8ee34db-2c03-4b5a-87af-adc89fab76de",
+                            "pronouns": "he/him",
+                            "shortBio" : "George is very convinced that he will never be a boss, CEO, CTO, Project manger, not even a tiny Team Lead...",
+                            "socials" : [{
+                                "icon" : "linkedin",
+                                "link" : "https://www.linkedin.com/in/george-bonea-b0494b91/",
+                                "name" : "LinkedIn"
+                              } , {
+                                "icon" : "facebook",
+                                "link" : "https://www.facebook.com/SpeakerDemotivational/",
+                                "name" : "Facebook"
+                              } , {
+                                "icon" : "youtube",
+                                "link" : "https://www.youtube.com/playlist?list=PLrg37xiA_78tENQ4yczFCXtyrlqKXcpQt",
+                                "name" : "Youtube"
+                              } ],
+                            "order" : 7,
+                            "id": "george_bonea",
+                            "title" : "Demotivational Speaker"
+                          }
+                    ],
+                    "title":"Not the best demotivational speech ever",
+                    "endTime":"13:15",
+                    "startTime":"12:30",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":45
+                    }
+                 }
+              ],
+              "gridArea":"7 / 1 / 7 / 4"
+           }
+        ]
+     },
+     { 
+        "endTime":"14:30",
+        "startTime":"13:15",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "day":"2019-11-16",
+                    "icon":"lunch",
+                    "duration":{ 
+                       "hh":1,
+                       "mm":15
+                    },
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "description":"Foooooooood!",
+                    "image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+                    "id":"8",
+                    "speakers":[ 
+
+                    ],
+                    "title":"Lunch",
+                    "endTime":"14:30",
+                    "startTime":"13:15",
+                    "mainTag":"General",
+                    "dateReadable":"November 16"
+                 }
+              ],
+              "gridArea":"8/ 1 / 8 / 4"
+           }
+        ]
+     },
+      { 
+         "sessions":[ 
+            { 
+               "items":[ 
+                  { 
+                     "tags": ["Cloud & Data Engineering"],
+                     "startTime":"14:30",
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "duration":{ 
+                        "hh":0,
+                        "mm":45
+                     },
+                     "language":"English",
+                     "track":{ 
+                        "title":"Main Conference Room"
+                     },
+                     "description":"",
+                     "presentation":"",
+                     "id":"9",
+                     "speakers":[ 
+                        { 
+                           "name": "TBA"
+                        }
+                     ],
+                     "endTime":"15:15",
+                     "title":"TBA"
+                  }
+               ],
+               "gridArea":"9 / 1 / 9 / 2"
+            },
+            { 
+                "items":[ 
+                    { 
+                       "tags": ["Android & Web Development"],
+                       "startTime":"14:30",
+                       "dateReadable":"November 16",
+                       "day":"2019-11-16",
+                       "duration":{ 
+                          "hh":0,
+                          "mm":45
+                       },
+                       "language":"English",
+                       "track":{ 
+                          "title":"Second Conference Room"
+                       },
+                       "description":"",
+                       "presentation":"",
+                       "id":"10",
+                       "speakers":[ 
+                          { 
+                             "name": "TBA"
+                          }
+                       ],
+                       "endTime":"15:15",
+                       "title":"TBA"
+                    }
+                 ],
+                 "gridArea":"9 / 2 / 9 / 3"
+            },
+            { 
+                "items":[ 
+                    { 
+                       "startTime":"14:30",
+                       "tags": ["AI & ML & IoT"],
+                       "dateReadable":"November 16",
+                       "day":"2019-11-16",
+                       "duration":{ 
+                          "hh":0,
+                          "mm":45
+                       },
+                       "language":"English",
+                       "track":{ 
+                          "title":"Third Conference Room"
+                       },
+                       "description":"",
+                       "presentation":"",
+                       "id":"11",
+                       "speakers":[ 
+                          { 
+                             "name": "TBA"
+                          }
+                       ],
+                       "endTime":"15:15",
+                       "title":"TBA"
+                    }
+                 ],
+                 "gridArea":"9 / 3 / 9 / 4"
+            }
+         ],
+         "endTime":"15:15",
+         "startTime":"14:30"
+      },
+      { 
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "tags": ["Cloud & Data Engineering"],
+                    "startTime":"15:15",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":45
+                    },
+                    "language":"English",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "description":"",
+                    "presentation":"",
+                    "id":"12",
+                    "speakers":[ 
+                       { 
+                          "name": "TBA"
+                       }
+                    ],
+                    "endTime":"16:00",
+                    "title":"TBA"
+                 }
+              ],
+              "gridArea":"10 / 1 / 10 / 2"
+           },
+           { 
+               "items":[ 
+                   { 
+                      "startTime":"15:15",
+                      "tags": ["Android & Web Development"],
+                      "dateReadable":"November 16",
+                      "day":"2019-11-16",
+                      "duration":{ 
+                         "hh":0,
+                         "mm":45
+                      },
+                      "language":"English",
+                      "track":{ 
+                         "title":"Second Conference Room"
+                      },
+                      "description":"",
+                      "presentation":"",
+                      "id":"13",
+                      "speakers":[ 
+                         { 
+                            "name": "TBA"
+                         }
+                      ],
+                      "endTime":"16:00",
+                      "title":"TBA"
+                   }
+                ],
+                "gridArea":"10 / 2 / 10 / 3"
+           },
+           { 
+               "items":[ 
+                   { 
+                      "startTime":"15:15",
+                      "tags": ["AI & ML & IoT"],
+                      "dateReadable":"November 16",
+                      "day":"2019-11-16",
+                      "duration":{ 
+                         "hh":0,
+                         "mm":45
+                      },
+                      "language":"English",
+                      "track":{ 
+                         "title":"Third Conference Room"
+                      },
+                      "description":"",
+                      "presentation":"",
+                      "id":"14",
+                      "speakers":[ 
+                         { 
+                            "name": "TBA"
+                         }
+                      ],
+                      "endTime":"16:00",
+                      "title":"TBA"
+                   }
+                ],
+                "gridArea":"10 / 3 / 10 / 4"
+           }
+        ],
+        "endTime":"16:00",
+        "startTime":"15:15"
+     },
+     { 
+        "startTime":"16:00",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "description":"Coffeeeeeee!",
+                    "image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+                    "id":"15",
+                    "speakers":[ 
+
+                    ],
+                    "title":"Coffee break",
+                    "endTime":"16:30",
+                    "startTime":"16:00",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "icon":"coffee-break",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":30
+                    }
+                 }
+              ],
+              "gridArea":"11 / 1 / 11 / 4"
+           }
+        ],
+        "endTime":"16:30"
+     }, { 
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "tags": ["Cloud & Data Engineering"],
+                    "startTime":"16:30",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":45
+                    },
+                    "language":"English",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "description":"",
+                    "presentation":"",
+                    "id":"16",
+                    "speakers":[ 
+                       { 
+                          "name": "TBA"
+                       }
+                    ],
+                    "endTime":"17:15",
+                    "title":"TBA"
+                 }
+              ],
+              "gridArea":"12 / 1 / 12 / 2"
+           },
+           { 
+               "items":[ 
+                   { 
+                      "startTime":"16:30",
+                      "tags": ["Android & Web Development"],
+                      "dateReadable":"November 16",
+                      "day":"2019-11-16",
+                      "duration":{ 
+                         "hh":0,
+                         "mm":45
+                      },
+                      "language":"English",
+                      "track":{ 
+                         "title":"Second Conference Room"
+                      },
+                      "description":"",
+                      "presentation":"",
+                      "id":"17",
+                      "speakers":[ 
+                         { 
+                            "name": "TBA"
+                         }
+                      ],
+                      "endTime":"17:15",
+                      "title":"TBA"
+                   }
+                ],
+                "gridArea":"12 / 2 / 12 / 3"
+           },
+           { 
+               "items":[ 
+                   { 
+                      "startTime":"16:30",
+                      "tags": ["AI & ML & IoT"],
+                      "dateReadable":"November 16",
+                      "day":"2019-11-16",
+                      "duration":{ 
+                         "hh":0,
+                         "mm":45
+                      },
+                      "language":"English",
+                      "track":{ 
+                         "title":"Third Conference Room"
+                      },
+                      "description":"",
+                      "presentation":"",
+                      "id":"18",
+                      "speakers":[ 
+                         { 
+                            "name": "TBA"
+                         }
+                      ],
+                      "endTime":"17:15",
+                      "title":"TBA"
+                   }
+                ],
+                "gridArea":"12 / 3 / 12 / 4"
+           }
+        ],
+        "endTime":"17:15",
+        "startTime":"16:30"
+     },
+     { 
+       "sessions":[ 
+          { 
+             "items":[ 
+                { 
+                   "tags": ["Cloud & Data Engineering"],
+                   "startTime":"17:15",
+                   "dateReadable":"November 16",
+                   "day":"2019-11-16",
+                   "duration":{ 
+                      "hh":0,
+                      "mm":45
+                   },
+                   "language":"English",
+                   "track":{ 
+                      "title":"Main Conference Room"
+                   },
+                   "description":"",
+                   "presentation":"",
+                   "id":"19",
+                   "speakers":[ 
+                      { 
+                         "name": "TBA"
+                      }
+                   ],
+                   "endTime":"18:00",
+                   "title":"TBA"
+                }
+             ],
+             "gridArea":"13 / 1 / 13 / 2"
+          },
+          { 
+              "items":[ 
+                  { 
+                     "startTime":"17:15",
+                     "tags": ["Android & Web Development"],
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "duration":{ 
+                        "hh":0,
+                        "mm":45
+                     },
+                     "language":"English",
+                     "track":{ 
+                        "title":"Second Conference Room"
+                     },
+                     "description":"",
+                     "presentation":"",
+                     "id":"20",
+                     "speakers":[ 
+                        { 
+                           "name": "TBA"
+                        }
+                     ],
+                     "endTime":"18:00",
+                     "title":"TBA"
+                  }
+               ],
+               "gridArea":"13 / 2 / 13 / 3"
+          },
+          { 
+              "items":[ 
+                  { 
+                     "startTime":"17:15",
+                     "tags": ["AI & ML & IoT"],
+                     "dateReadable":"November 16",
+                     "day":"2019-11-16",
+                     "duration":{ 
+                        "hh":0,
+                        "mm":45
+                     },
+                     "language":"English",
+                     "track":{ 
+                        "title":"Third Conference Room"
+                     },
+                     "description":"",
+                     "presentation":"",
+                     "id":"21",
+                     "speakers":[ 
+                        { 
+                           "name": "TBA"
+                        }
+                     ],
+                     "endTime":"18:00",
+                     "title":"TBA"
+                  }
+               ],
+               "gridArea":"13 / 3 / 13 / 4"
+          }
+       ],
+       "endTime":"18:00",
+       "startTime":"17:15"
+    },
+    { 
+        "endTime":"18:20",
+        "startTime":"18:00",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"22",
+                    "speakers":[ 
+                        {
+                            "name": "TBA"
+                        }
+                    ],
+                    "title":"Community presentations",
+                    "endTime":"18:20",
+                    "startTime":"18:00",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":20
+                    }
+                 }
+              ],
+              "gridArea":"14/ 1 / 14 / 4"
+           }
+        ]
+     },
+     { 
+        "endTime":"18:55",
+        "startTime":"18:20",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"23",
+                    "speakers":[ 
+                        {
+                            "name": "TBA"
+                        }
+                    ],
+                    "title":"TBA",
+                    "endTime":"18:55",
+                    "startTime":"18:20",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":35
+                    }
+                 }
+              ],
+              "gridArea":"15/ 1 / 15 / 4"
+           }
+        ]
+     },
+     { 
+        "endTime":"19:00",
+        "startTime":"18:55",
+        "sessions":[ 
+           { 
+              "items":[ 
+                 { 
+                    "language":"English",
+                    "description":"",
+                    "track":{ 
+                       "title":"Main Conference Room"
+                    },
+                    "id":"24",
+                    "speakers":[ 
+                        {
+                            "name": "GDG Craiova"
+                        }
+                    ],
+                    "title":"Closing Speech",
+                    "endTime":"19:00",
+                    "startTime":"18:55",
+                    "mainTag":"General",
+                    "dateReadable":"November 16",
+                    "day":"2019-11-16",
+                    "duration":{ 
+                       "hh":0,
+                       "mm":5
+                    }
+                 }
+              ],
+              "gridArea":"16/ 1 / 16 / 4"
+           }
+        ]
+     }
+   ],
+   "date":"2019-11-16",
+   "tags":[ 
+      "Cloud & Data Engineering",
+      "AI & ML & IoT",
+      "Android & Web Development"
+   ],
+   "tracks":[ 
+      { 
+         "title":"Main Conference Room"
+      },
+      { 
+         "title":"Second Conference Room"
+      },
+      { 
+         "title":"Third Conference Room"
+      }
+   ]
+}

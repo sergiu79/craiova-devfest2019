@@ -1,0 +1,20 @@
+{"bio" : "Cristian teaches Microsoft SQL Server and he is also an author, a community leader, a public speaker and a proud Toastmasters member. In his spare time he is involved in the West Coast Swing community being a teacher certified by GSDTA. He is also a mentor at the <a target='_blank' href='https://scoalainformala.ro'>Informal School of IT</a>",
+    "company" : "Esential Training",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "Cristian Lefter",
+    "photo" : "/images/people/cristian_lefter.jpg",
+    "photoUrl" : "",
+    "pronouns": "he/him",
+    "shortBio" : "Cristian teaches Microsoft SQL Server and he is also an author, a community leader, a public speaker and a proud Toastmasters member.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/cristianlefter/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 3,
+    "id": "cristian_lefter",
+    "title" : "Independent Trainer and Consultant"
+  }
