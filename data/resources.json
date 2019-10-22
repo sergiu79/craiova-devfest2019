@@ -110,7 +110,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Expected attendees",
-        "number": "250"
+        "number": "350"
       },
       "days": {
         "label": "GDGs ",
