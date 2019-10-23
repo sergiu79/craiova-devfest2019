@@ -1,10 +1,10 @@
 {
   "title": "GDG DevFest Craiova 2019",
   "description": "Join the community, learn new things!",
-  "image": "images/social-share.jpg",
+  "image": "images/social.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, craiova, gdgcraiova",
   "dates": "November 16, 2019",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "#",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -134,10 +134,10 @@
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Sponsors",
-    "button": "Become a sponsor",
+    "title": "Partners",
+    "button": "Become a partner",
     "form": {
-      "title": "Become a sponsor!",
+      "title": "Become a partner!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
