@@ -1,0 +1,28 @@
+{"bio" : "Maciej is an enthusiast of web technologies, especially Single Page Apps, Progressive Web Apps, microservices and Internet of Things. Author of articles about JavaScript, NodeJS, and Angular. Creator of @ng-toolkit opensource project - set of tools for expanding existing Angular applications.",
+    "company" : "Akamai Technologies",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : " Kraków, Poland",
+    "featured" : true,
+    "name" : "Maciej Treder",
+    "photo" : "/images/people/maciej_treder.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FMaciej_Treder.jpg?alt=media&token=144db5d8-bc1f-4313-a39f-0eb18c4d2313",
+    "pronouns": "he/him",
+    "shortBio" : "Maciej is an enthusiast of web technologies, especially Single Page Apps, Progressive Web Apps, microservices and Internet of Things. Author of articles about JavaScript, NodeJS and Angular. Creator of @ng-toolkit opensource project - set of tools for expanding existing Angular applications.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/maciej-treder/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/maciejtreder",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.maciejtreder.com/",
+        "name" : "Website"
+      }],
+    "order" : 9,
+    "id": "maciej_treder",
+    "title" : "Senior Software Development Engineer"
+  }
