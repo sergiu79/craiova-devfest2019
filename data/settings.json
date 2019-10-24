@@ -41,7 +41,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the community, learn new things!",
+      "description": "This is a community event, from developers to developers!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
