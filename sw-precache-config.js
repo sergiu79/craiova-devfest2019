@@ -2,6 +2,7 @@ module.exports = {
   staticFileGlobs: [
     '/index.html',
     '/manifest.json',
+    '/robots.txt',
     '/node_modules/@webcomponents/webcomponentsjs/*.js',
     '/node_modules/firebase/firebase.js',
     '/node_modules/firebase/firebase-firestore.js',

@@ -65,25 +65,27 @@
           const updatedData1 = data1 || this._defaultData1;
           const updatedLabel2 = label2 || this._defaultLabel2;
           const updatedData2 = data2 || this._defaultData2;
+          /*
           let updatedImage = this._defaultImage;
           if (image) {
             updatedImage = image.startsWith('http') ? image : `{$ url $}${image}`;
           }
+          */
           document.title = updatedTitle;
           document.querySelector('meta[name="description"]').setAttribute('content', updatedDescription);
           // G+
           document.querySelector('meta[itemprop="name"]').setAttribute('content', updatedTitle);
           document.querySelector('meta[itemprop="description"]').setAttribute('content', updatedDescription);
-          document.querySelector('meta[itemprop="image"]').setAttribute('content', updatedImage);
+          document.querySelector('meta[itemprop="image"]').setAttribute('content', 'https://devfest.gdgcraiova.dev/images/social.png');
           // Facebook
           document.querySelector('meta[property="og:title"]').setAttribute('content', updatedTitle);
           document.querySelector('meta[property="og:description"]').setAttribute('content', updatedDescription);
-          document.querySelector('meta[property="og:image"]').setAttribute('content', updatedImage);
+          document.querySelector('meta[property="og:image"]').setAttribute('content', 'https://devfest.gdgcraiova.dev/images/social.png');
           document.querySelector('meta[property="og:url"]').setAttribute('content', this._getUrl());
           // Twitter
           document.querySelector('meta[name="twitter:title"]').setAttribute('content', updatedTitle);
           document.querySelector('meta[name="twitter:description"]').setAttribute('content', updatedDescription);
-          document.querySelector('meta[name="twitter:image"]').setAttribute('content', updatedImage);
+          document.querySelector('meta[name="twitter:image"]').setAttribute('content', 'https://devfest.gdgcraiova.dev/images/social.png');
           document.querySelector('meta[name="twitter:label1"]').setAttribute('value', updatedLabel1);
           document.querySelector('meta[name="twitter:data1"]').setAttribute('value', updatedData1);
           document.querySelector('meta[name="twitter:label2"]').setAttribute('value', updatedLabel2);

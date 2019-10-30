@@ -1,0 +1,24 @@
+{"bio" : "Eugen is an experienced developer  with a demonstrated history of working in the management consulting industry. He is skilled in Big Data (Apache/Cloudera Stack), Scala and Java Enterprise Development. He is also a strong engineering professional with a proven record of getting new projects off the ground as well as bringing them back from the dead. He also started his career path here in Craiova.",
+    "company" : "Deloitte Digital",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Eugen Iancu",
+    "photo" : "/images/people/eugen_iancu.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Feugen.jpeg?alt=media&token=9a54ef20-08b7-4db2-8298-b69bb9c1a1bd",
+    "pronouns": "he/him",
+    "shortBio" : "Eugen is an experienced developer  with a demonstrated history of working in the management consulting industry. He is skilled in Big Data ...",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/eugen-iancu-bb87b559/",
+        "name" : "LinkedIn"
+    } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/eug3n91",
+        "name" : "Twitter"
+    } ],
+    "order" : 12,
+    "id": "Eugen Iancu",
+    "title" : "Technical Lead"
+  }

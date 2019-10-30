@@ -1,0 +1,24 @@
+{"bio" : "Călin is a Java Consultant and a very proud Neo4j Certified Professional with more than 7 years of experience in the area of software development. After finding out about Neo4j about 6 years ago, he now models everything as a graph. If you ever meet him, he will spend all of his time convincing you that whatever else you're doing is wrong. His use-cases include real-time recommendation systems, trust and reputation engines, and social ranking algorithms.",
+    "company" : "Endava",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Călin Constantinov",
+    "photo" : "/images/people/calin_constantinov.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcalin.jpeg?alt=media&token=5f06feea-bb0d-445c-8454-df231318f46d",
+    "pronouns": "he/him",
+    "shortBio" : "Călin is a Java Consultant and a very proud Neo4j Certified Professional with more than 7 years of experience in the area of software development.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/calinconstantinov/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/GraphGuyCalin",
+        "name" : "Twitter"
+      } ],
+    "order" : 9,
+    "id": "calin_constantinov",
+    "title" : "Development Consultant | Neo4j Specialist"
+  }

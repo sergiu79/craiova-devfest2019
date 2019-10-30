@@ -20,6 +20,7 @@
     "scripts/**/*",
     "src/**/*",
     "manifest.json",
+    "robots.txt",
     "firebase-messaging-sw.js"
   ],
   "extraDependencies": [

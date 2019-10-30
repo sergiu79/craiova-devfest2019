@@ -1,0 +1,20 @@
+{"bio" : "As also some of his speaker colleagues, Daniel started his career here in Craiova, leaving to Bucharest almost 5 years ago where he founded Automation Pill, an RPA company who can help business owners to gain more time for creativity. He put all his efforts to increase automation usage and he is willing to take it to the next step with his gathered experience.",
+    "company" : "Automation PILL",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Daniel Tilă",
+    "photo" : "/images/people/daniel_tila.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FDanMarin.jpg?alt=media&token=c8d5d67d-5e0b-449c-8005-b0dca9150956",
+    "pronouns": "he/him",
+    "shortBio" : "As also some of his speaker colleagues, Daniel started his career here in Craiova, leaving to Bucharest almost 5 years ago where he founded Automation Pill...",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/marin-daniel-til%C4%83-4ab89539/",
+        "name" : "LinkedIn"
+    } ],
+    "order" : 11,
+    "id": "daniel_tila",
+    "title" : "Co-Founder"
+  }

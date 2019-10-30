@@ -186,6 +186,7 @@ function copyStatic() {
   return gulp.src([
     'data/**/*.{markdown,md}',
     'images/**/*.{png,gif,jpg,svg}',
+    'robots.txt',
   ], {
     base: '.',
   })
@@ -235,5 +236,6 @@ gulp.task('serve', gulp.series(compileTemplate, () => {
     'src/**/*.html',
     '*.{html,js}',
     'manifest.json',
+    'robots.txt',
   ], gulp.series(compileTemplate, reload));
 }));
