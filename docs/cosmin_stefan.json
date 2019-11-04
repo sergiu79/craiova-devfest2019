@@ -1,0 +1,20 @@
+{"bio" : "Cosmin is doing Software development on a multitude of Android, web and server development projects, being actively involved in all steps of the development process, from architectural design, to implementation, testing and releasing. He also worked as a software developer in various Android and server backend development projects, with active involvement in all the steps of the development process, employing various languages such as Java, Kotlin, C#, Python, JavaScript, Typescript, HTML.",
+    "company" : "Silverbit Tech",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Cosmin Ștefan",
+    "photo" : "/images/people/cosmin_stefan.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcosmin.jpeg?alt=media&token=01ed12af-6598-4a3e-b850-4061d5c78b44",
+    "pronouns": "he/him",
+    "shortBio" : "Worked as a software developer in various Android and server backend development projects, with active involvement in all the steps of the development process, employing various languages such as Java, Kotlin, C#, Python, JavaScript, Typescript, HTML",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/cosminstefan/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 12,
+    "id": "cosmin_stefan",
+    "title" : "Founder & Software Engineer"
+  }

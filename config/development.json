@@ -1,7 +1,7 @@
 {
   "basepath": "/",
   "url": "https://devfest-2019-craiova.firebaseapp.com/",
-  "analytics": "UA-21286175-6",
+  "analytics": "UA-150246678-1",
   "prefix": "/",
   "firebase": {
     "appId": "",

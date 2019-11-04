@@ -1,0 +1,24 @@
+{"bio" : "Matthieu is a VP of Engineering at Theodo, in France, a company with more than 1000 top clients worldwide. He is very passionate about web development, Symphony and GatsbyJS. He loves open-source software, domain-driven design and TDD. On his spare time, he likes to play volley, piano and go to electronic festivals.",
+    "company" : "Theodo",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Paris, France",
+    "featured" : false,
+    "name" : "Matthieu Auger",
+    "photo" : "/images/people/matthieu_auger.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fmatthieu.jpeg?alt=media&token=50605280-0b09-4cb4-ba5e-4e071bea1bfc",
+    "pronouns": "he/him",
+    "shortBio" : "Matthieu is a VP of Engineering at Theodo, in France, a company with more than 1000 top clients worldwide. He is very passionate about web development, Symphony and GatsbyJS",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/matthieuauger/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/matthieuauger",
+        "name" : "Twitter"
+      } ],
+    "order" : 5,
+    "id": "matthieu_auger",
+    "title" : "JAMstack Enthusiast | VP of Engineering"
+  }

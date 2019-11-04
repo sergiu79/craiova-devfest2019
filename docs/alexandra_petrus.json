@@ -1,0 +1,29 @@
+{"bio" : "Alexandra is an high impact product strategist with a track record of defining, launching and marketing star products. She is masterful at crafting product strategies that bridge the gap between business problems and technology. She has a great experience in startup and intrapreneurial environments, in leading Product (VP Product) & Organisational (Managing Director) roles. She is proud of being part of award-winning teams and businesses.",
+    "company" : "Bucharest AI",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "Alexandra Petruș",
+    "photo" : "/images/people/alexandra_petrus.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Falexandra.jpeg?alt=media&token=cdc272cd-2b2a-4697-94c9-c34fb1e67399",
+    "pronouns": "she/her",
+    "shortBio" : "Alexandra is an high impact product strategist with a track record of defining, launching and marketing star products. She is masterful at crafting product strategies that bridge the gap between business problems and technology.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/alexandrapetrus/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/alxpetrus",
+        "name" : "Twitter"
+      } ],
+    "badges": [ {
+        "description" : "Product Strategy Google Developer Expert",
+        "link" : "https://www.linkedin.com/in/alexandrapetrus/",
+        "name" : "gde"
+        } ],
+    "order" : 3,
+    "id": "alexandra_petrus",
+    "title" : "Products Strategist & Co-Founder"
+  }

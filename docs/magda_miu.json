@@ -1,0 +1,29 @@
+{"bio" : "Magda is very passionate about forming, training and leading successful mobile development teams in order to exceed customer’s expectations by connecting and translating complex customers’ needs to technical teams and by ensuring project management for team accounts. With a strong business awareness Magda constantly improves her customer’s experience through proactive measures and consultative selling. As a professional, she always remains dedicated to the technical nature of her work, dedicating specific time for learning, testing and implementing new technologies and using these in her coaching process with her team members. Passionate about technology, she is one of the promoters of digital communities in different towns of Romania, supporting other technical professionals to constantly improve their knowledge by being Co-Organiser at GDG Pitești and leader of Women Techmakers România Community. Future for her means leading technical teams, constantly learning and applying new knowledge and innovating for her customer benefits.",
+    "company" : "Orange Services",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : true,
+    "name" : "Maria Magdalena Miu",
+    "photo" : "/images/people/magda_miu.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fmagdamiu.jpg?alt=media&token=9e91da58-e4fd-4f9f-a39a-3346a651b829",
+    "pronouns": "she/her",
+    "shortBio" : "Magda is very passionate about forming, training and leading successful mobile development teams in order to exceed customer’s expectations by connecting and translating complex customers’ needs to technical teams and by ensuring project management for team accounts",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/magdamiu/",
+        "name" : "LinkedIn"
+      } , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/MagdaMiu",
+        "name" : "Twitter"
+      } ],
+    "badges": [ {
+        "description" : "Google Developer Expert for Android",
+        "link" : "https://developers.google.com/community/experts/directory/profile/profile-magda_miu",
+        "name" : "gde"
+        } ],
+    "order" : 1,
+    "id": "magda_miu",
+    "title" : "Squad Lead Developer, CSM, CSPO | Google Developer Expert for Android | Trainer, Speaker"
+  }
