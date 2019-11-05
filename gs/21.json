@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "18:00",
+  "id": "21",
+  "language": "English",
+  "mainTag": "AI & ML",
+  "speakers": [{
+    "id": "victor_gradinescu",
+    "sessions": null,
+    "name": "Victor Grădinescu",
+    "company": "Mobile Kinetics",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fvictor_gradinescu.jpeg?alt=media&token=592cccd4-9330-4f5e-a836-2e41fa823e05"
+  }],
+  "startTime": "17:15",
+  "tags": [],
+  "title": "TBA",
+  "track": {
+    "title": "AI&ML Conference Room"
+  }
+}

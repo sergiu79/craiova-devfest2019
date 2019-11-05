@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "17:15",
+  "id": "18",
+  "language": "English",
+  "mainTag": "AI & ML",
+  "speakers": [{
+    "id": "cosmin_stefan",
+    "sessions": null,
+    "name": "Cosmin Ștefan",
+    "company": "Silverbit Tech",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcosmin.jpeg?alt=media&token=01ed12af-6598-4a3e-b850-4061d5c78b44"
+  }],
+  "startTime": "16:30",
+  "tags": [],
+  "title": "TBA",
+  "track": {
+    "title": "AI&ML Conference Room"
+  }
+}

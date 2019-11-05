@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "George Bonea will entertain the audience with a very 'demotivational' speech. Maybe some of you don't know him yet, but he is going to become a very popular stand-up influencer.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "13:15",
+  "id": "7",
+  "language": "English",
+  "mainTag": "",
+  "speakers": [{
+    "id": "catalin_mester",
+    "sessions": null,
+    "name": "George Bonea",
+    "company": "Mercury 360",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fgeorge_bonea.png?alt=media&token=d8ee34db-2c03-4b5a-87af-adc89fab76de"
+  }],
+  "startTime": "12:30",
+  "tags": ["Laughing Out Loud"],
+  "title": "Not The Best Demotivational Speech Ever",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

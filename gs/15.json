@@ -1,0 +1,20 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Coffeeeeee!",
+  "duration": {
+    "hh": 0,
+    "mm": 30
+  },
+  "endTime": "16:30",
+  "id": "5",
+  "language": "English",
+  "mainTag": "",
+  "startTime": "16:00",
+  "tags": [],
+  "title": "Coffee break",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

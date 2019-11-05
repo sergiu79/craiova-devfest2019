@@ -1,0 +1,20 @@
+{"bio" : "Victor is Co-founder of Mobile Kinetics since 2011, in charge with leading the Android Development Team but also building cloud solutions and micro-services back-ends. He is also co-organizing Google Developer Groups in Bucharest. Starting March 2019, Victor become Google Cloud Certified - Professional Cloud Architect",
+    "company" : "Mobile Kinetics",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Bucharest, Romania",
+    "featured" : false,
+    "name" : "Victor Grădinescu",
+    "photo" : "/images/people/victor_gradinescu.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fvictor_gradinescu.jpeg?alt=media&token=592cccd4-9330-4f5e-a836-2e41fa823e05",
+    "pronouns": "he/him",
+    "shortBio" : "Victor is Co-founder of Mobile Kinetics since 2011, in charge with leading the Android Development Team but also building cloud solutions and micro-services back-ends.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/victorradugradinescu/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 12,
+    "id": "victor_gradinescu",
+    "title" : "Co-founder & Developer"
+  }

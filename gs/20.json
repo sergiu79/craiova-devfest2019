@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Say hello to the Angular CLI from a new perspective. Get to know what schematics are and how you can use them for your purpose. Make use of ng add, update, new commands and much more. Learn how to perform CRUD operations automatically, and how to execute npm tasks such as installing dependencies. Schematics is an underestimated part of Angular project. By using them, library developers gain super-powers to helping their customers. You can adjust your customer projects with changes necessary to use the library you provide. Apart from that, Schematics is a great tool for enterprise, which needs to maintain UI elements on behalf of multiple dev-teams. In this talk, I am going to start from a high-overview of schematics framework, used by Angular CLI. Audience would get familiar with the Tree and Rule objects concept. I want to show a working example of create, read, update and delete operations, performed by schematics, how can you make  use of TypeScript compiler and how to send a task like package installation to NodeJS. What will be covered here, are ‚ng add’, ‚ng update’, ’ng new’, ‚ng generate’ etc. etc. commands, together with best practices, how to perform a unit tests, and end-to-end tests with the use of tools like mock npm registry.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "18:00",
+  "id": "20",
+  "language": "English",
+  "mainTag": "Android & Web Development",
+  "speakers": [{
+    "id": "maciej_treder",
+    "sessions": null,
+    "name": "Maciej Treder",
+    "company": "Akamai Technologies",
+    "country": "Poland",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FMaciej_Treder.jpg?alt=media&token=144db5d8-bc1f-4313-a39f-0eb18c4d2313"
+  }],
+  "startTime": "17:15",
+  "tags": ["Angular", "Web Development"],
+  "title": "Angular Schematics - Develop for developers",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

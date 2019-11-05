@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "In times where design revolves around interfaces and screens, moving towards UI-less experiences brings new challenges. Most of the interactions between humans are done through conversation and still, most of that communication is wrong. Technology brings new challanges but also makes life easier for people by building bridges between the needs of humans and modern technology. However, how can we teach computers to better interact and communicate with people when most of the time, communication is flawed. In this talk, Alina is going to explore with you not only the technology and the challenges of voice interactions, but also human and psychology aspects that help designers and developers create better products.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "11:30",
+  "id": "4",
+  "language": "English",
+  "mainTag": "",
+  "speakers": [{
+    "id": "catalina_banuleasa",
+    "sessions": null,
+    "name": "Cătălina Bănuleasa",
+    "company": "Design Thinking Society",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FCatalina.png?alt=media&token=0d1a2343-a4e7-4551-808f-0d3076549a3a"
+  }],
+  "startTime": "10:45",
+  "tags": ["UX"],
+  "title": "Designing Experiences for Voice Interactions",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

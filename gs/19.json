@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "18:00",
+  "id": "19",
+  "language": "English",
+  "mainTag": "Cloud & Data Engineering",
+  "speakers": [{
+    "id": "calin_constantinov",
+    "sessions": null,
+    "name": "Călin Constantinov",
+    "company": "Endava",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcalin.jpeg?alt=media&token=5f06feea-bb0d-445c-8454-df231318f46d"
+  }],
+  "startTime": "17:15",
+  "tags": [],
+  "title": "Engineering Social Influence with Neo4j",
+  "track": {
+    "title": "Cloud Conference Room"
+  }
+}

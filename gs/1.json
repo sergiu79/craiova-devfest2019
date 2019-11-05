@@ -1,0 +1,19 @@
+{
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+  "duration": {
+    "hh": 1,
+    "mm": 30
+  },
+  "endTime": "09:30",
+  "id": "1",
+  "language": "English",
+  "mainTag": "",
+  "startTime": "08:00",
+  "tags": [],
+  "title": "Registration & breakfast",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

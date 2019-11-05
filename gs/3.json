@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "A basic introduction about Google TensorFlow, include what TensorFlow is, what kinds of use cases we have for now, discussions on some of the most popular applications based on TensorFlow.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "10:45",
+  "id": "3",
+  "language": "English",
+  "mainTag": "",
+  "speakers": [{
+    "id": "shery_sheng",
+    "sessions": null,
+    "name": "Shery Sheng",
+    "company": "Google",
+    "country": "China",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fshery.jpg?alt=media&token=76cf08ed-d75c-4368-bd39-581a25c82ad4"
+  }],
+  "startTime": "10:00",
+  "tags": [],
+  "title": "Brief talk about Google TensorFlow",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

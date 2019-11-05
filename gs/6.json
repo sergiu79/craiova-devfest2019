@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Design Sprints are very hot 🔥🔥🔥 right now and for a very good reason, they simply work.  They give us a superpower to jump into the future before we build a solution or feature and test it with potential users. If you don't know what the Design Sprint is, here's a quick intro: it's a framework that allows you to decide on a problem, generate solutions, prototype and test ideas in just 4 days. Companies like Amazon, Netflix, Google, Airbnb, Uber and many more all use sprints as part of product development. Join me to learn the why, how and what of Design Sprints. It's basically a crash course on how to get started with the methodology.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "12:30",
+  "id": "6",
+  "language": "English",
+  "mainTag": "",
+  "speakers": [{
+    "id": "catalin_mester",
+    "sessions": null,
+    "name": "Cătălin Meşter",
+    "company": "Stefanini EMEA",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcatalin.jpeg?alt=media&token=63f4b461-d03b-46fd-a9a8-72c64be4f398"
+  }],
+  "startTime": "11:45",
+  "tags": ["Sprint Design"],
+  "title": "Design Sprints",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}
