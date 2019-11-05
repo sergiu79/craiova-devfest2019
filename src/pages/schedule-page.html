@@ -242,7 +242,8 @@
         if (sessions && sessions.length) {
           requestAnimationFrame(() => {
             if (active && id) {
-              dialogsActions.openDialog(DIALOGS.SESSION, this.sessionsMap[id[0]]);
+              const session = this.sessionsMap[id[0]];
+              dialogsActions.openDialog(DIALOGS.SESSION, session);
             } else {
               this.isSpeakerDialogOpened && dialogsActions.closeDialog(DIALOGS.SPEAKER);
               this.isSessionDialogOpened && dialogsActions.closeDialog(DIALOGS.SESSION);

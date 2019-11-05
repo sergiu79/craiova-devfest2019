@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "The Intelligent Query Processing is a family of feature introduced by SQL Server to improve query performance automatically. It includes innovative strategies such as selecting a join type during runtime, interleaved execution, adjusting the memory of the same query between executions or transforming Scalar User-Defined Functions into relational expressions.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "16:00",
+  "id": "14",
+  "language": "English",
+  "mainTag": "AI&ML",
+  "speakers": [{
+    "id": "cristian_lefter",
+    "sessions": null,
+    "name": "Cristian Lefter",
+    "company": "Esential Training",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fcristian.jpeg?alt=media&token=1589edb4-0b31-4037-b54e-1f97611872b0"
+  }],
+  "startTime": "15:15",
+  "tags": ["SQL"],
+  "title": "Intelligent Query Processing in SQL Server 2019",
+  "track": {
+    "title": "AI&ML Conference Room"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "State management libraries like Redux, Mobx, Vuex and similar are magical (you can tell by the x in the name). This talks demystifies them by looking at the problem they are solving, and solving it. Unidirectional data flow has been all the rage these past years - mostly thanks to libraries like React that use it heavily. But it is a bit of a counterintuitive pattern of work, so this presentation aims to demystify why and when it’s actually needed and to explain all the strange words (dispatcher, reduced, store) that are used within it, by making a simple implementation in Angular using TypeScript from scratch.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "16:00",
+  "id": "13",
+  "language": "English",
+  "mainTag": "Android & Web Development",
+  "speakers": [{
+    "id": "wekoslav_stefanovski",
+    "sessions": null,
+    "name": "Wekoslav Stefanowski",
+    "company": "Sourcico",
+    "country": "Macedonia",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fwekoslav.jpg?alt=media&token=b23fdf65-4ee2-4a85-8b97-85c23d323f56"
+  }],
+  "startTime": "15:15",
+  "tags": ["Angular, Redux, Typescript"],
+  "title": "Make you a Redux for fun and profit",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

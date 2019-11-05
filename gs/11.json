@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "In our AI augmented society, attention becomes the most traded commodity. We see it in voice applications (Google Assistant, Alexa etc), trending audio consumed information (podcasts, audio books etc), automotive applications using attention as a safety feature, retail optimizing their inventory or further monetizing and why not soon Netflix automatically pausing our film if our attention switches to something else nearby. But where do the attention and AI intersect and how can we all benefit? Eye tracking, auditing algorithms and trading our attention.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "15:15",
+  "id": "11",
+  "language": "English",
+  "mainTag": "AI & ML",
+  "speakers": [{
+    "id": "alexandra_petrus",
+    "sessions": null,
+    "name": "Alexandra Petruș",
+    "company": "Bucharest AI",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Falexandra.jpeg?alt=media&token=cdc272cd-2b2a-4697-94c9-c34fb1e67399"
+  }],
+  "startTime": "14:30",
+  "tags": ["Artificial Intelligence"],
+  "title": "Human Attention (HA) for an AI augumented world",
+  "track": {
+    "title": "AI&ML Conference Room"
+  }
+}

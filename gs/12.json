@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "15:15",
+  "id": "12",
+  "language": "English",
+  "mainTag": "Cloud & Data Engineering",
+  "speakers": [{
+    "id": "victor_horescu",
+    "sessions": null,
+    "name": "Vicor Horescu",
+    "company": "iQST",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fvictor.jpeg?alt=media&token=0e96f81b-54cd-4c9a-b20c-25b7ff52eb3a"
+  }],
+  "startTime": "14:30",
+  "tags": ["Automated testing"],
+  "title": "Selenium and automated testing",
+  "track": {
+    "title": "Cloud Conference Room"
+  }
+}

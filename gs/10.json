@@ -1,0 +1,28 @@
+{
+  "complexity": "Begginer",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Kotlin promises concise, expressive and secure code. The presentation will include a full tour of language basics, we will have some fun with functions and will learn new keywords from the Kotlin world. We will discover the main advantages of Kotlin compared to Java and we will explore the inventive features Kotlin offers for working with classes. Finally, we will highlight some advanced topics like delegation and coroutines. This talk is suitable for every developer who is looking for a modern and safe language to use in developing awesome apps.",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "15:15",
+  "id": "10",
+  "language": "English",
+  "mainTag": "Android & Web Development",
+  "speakers": [{
+    "id": "magda_miu",
+    "sessions": null,
+    "name": "Magda Miu",
+    "company": "Orange",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fmagda_miu.png?alt=media&token=48740763-c9c2-40ab-92bb-800f47d7493d"
+  }],
+  "startTime": "14:30",
+  "tags": ["Android"],
+  "title": "Kotlin in 45 minutes",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

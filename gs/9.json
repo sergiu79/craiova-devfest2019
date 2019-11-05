@@ -1,0 +1,28 @@
+{
+  "complexity": "Intermediate",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "A look at a real world Big Data project design. A case study of a production-ready lambda architecture followed up by an interactive session discussing possible improvements",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "15:15",
+  "id": "9",
+  "language": "English",
+  "mainTag": "Cloud & Data Engineering",
+  "speakers": [{
+    "id": "eugen_iancu",
+    "sessions": null,
+    "name": "Eugen Iancu",
+    "company": "Deloitte Digital",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Feugen.jpeg?alt=media&token=9a54ef20-08b7-4db2-8298-b69bb9c1a1bd"
+  }],
+  "startTime": "14:30",
+  "tags": ["Big Data"],
+  "title": "Big Data Architecture in the Wild",
+  "track": {
+    "title": "Cloud Conference Room"
+  }
+}
