@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "17:15",
+  "id": "16",
+  "language": "English",
+  "mainTag": "Cloud & Data Engineering",
+  "speakers": [{
+    "id": "daniel_tila",
+    "sessions": null,
+    "name": "Daniel Tilă",
+    "company": "Automation PILL",
+    "country": "Romania",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2FDanMarin.jpg?alt=media&token=c8d5d67d-5e0b-449c-8005-b0dca9150956"
+  }],
+  "startTime": "16:30",
+  "tags": ["RPA"],
+  "title": "RPA for developers",
+  "track": {
+    "title": "Cloud Conference Room"
+  }
+}

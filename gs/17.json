@@ -1,0 +1,28 @@
+{
+  "complexity": "Beginner",
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "",
+  "duration": {
+    "hh": 0,
+    "mm": 45
+  },
+  "endTime": "17:15",
+  "id": "17",
+  "language": "English",
+  "mainTag": "Android & Web Development",
+  "speakers": [{
+    "id": "matthieu_auger",
+    "sessions": null,
+    "name": "Matthieu Auger",
+    "company": "Theodo",
+    "country": "France",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fmatthieu.jpeg?alt=media&token=50605280-0b09-4cb4-ba5e-4e071bea1bfc"
+  }],
+  "startTime": "16:30",
+  "tags": ["Web Development", "GatsbyJS"],
+  "title": "Fast by Default: Near Instant Load Times at Scale with GatsbyJS",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}

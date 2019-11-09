@@ -1,0 +1,19 @@
+{
+  "dateReadable": "November 16",
+  "day": "2019-11-16",
+  "description": "Official start of the conference. Greetings from the organizers, sponsors and partners",
+  "duration": {
+    "hh": 0,
+    "mm": 30
+  },
+  "endTime": "10:00",
+  "id": "2",
+  "language": "English",
+  "mainTag": "",
+  "startTime": "09:30",
+  "tags": [],
+  "title": "Opening",
+  "track": {
+    "title": "Main Conference Room"
+  }
+}
