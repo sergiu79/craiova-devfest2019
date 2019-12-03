@@ -1,0 +1,20 @@
+{"bio" : "Gabriel is a passionate software engineer with 10+ years of experience in the programming field. He loves developing applications, regardless of the operating system or programming language.",
+    "company" : "iQuest",
+    "companyLogo" : "",
+    "companyLogoUrl" : "",
+    "country" : "Craiova, Romania",
+    "featured" : false,
+    "name" : "Gabriel Barbu",
+    "photo" : "/images/people/gabriel_barbu.jpg",
+    "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-2019-craiova.appspot.com/o/speakers%2Fgabriel.png?alt=media&token=39d5cc79-852e-42b6-a82d-4a633b6374c9",
+    "pronouns": "he/him",
+    "shortBio" : "Gabriel is a passionate software engineer with 10+ years of experience in the programming field. He loves developing applications, regardless of the operating system or programming language.",
+    "socials" : [{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/bibistroc/",
+        "name" : "LinkedIn"
+      } ],
+    "order" : 21,
+    "id": "gabriel_barbu",
+    "title" : ".NET Developer | Senior Software Engineer"
+  }
